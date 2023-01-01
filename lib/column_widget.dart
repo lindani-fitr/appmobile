@@ -17,3 +17,4 @@ class ColumnWidget extends StatelessWidget {
       ]),
     );
   }
+}
